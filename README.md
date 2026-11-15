@@ -246,5 +246,6 @@ bank-loan-analysis-dashboard/
 
 **Md Ziaul Haque**  
 Data Analyst | Excel, SQL, Power BI, Tableau, Python  
-GitHub: https://github.com/md-ziaul-haque-ds |
+GitHub: https://github.com/md-ziaul-haque-ds 
+
 LinkedIn: http://www.linkedin.com/in/mdziaulhaque-datascience
