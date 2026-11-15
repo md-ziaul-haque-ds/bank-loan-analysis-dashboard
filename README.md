@@ -2,7 +2,7 @@
 
 A two-page interactive **Looker Studio** dashboard that analyses **38,576 bank loans issued in 2021**. It shows how large and fast-growing the loan book is, how much of it goes bad, and which borrower and loan segments carry the most default risk.
 
-**Live dashboard:** [Paste your Looker Studio link here]
+**Live dashboard:** https://datastudio.google.com/reporting/23268deb-1073-451a-a80d-c0bbea43143d
 
 ---
 
@@ -45,7 +45,7 @@ A two-page interactive **Looker Studio** dashboard that analyses **38,576 bank l
 |---|---|
 | Platform | Kaggle |
 | Dataset | **Bank Loan Report** |
-| Dataset link | [Paste your Kaggle dataset URL here] |
+| Dataset link | https://www.kaggle.com/datasets/shahidkhan01174/bank-loan-report?select=financial_loan.csv |
 | File used | `financial_loan.csv` (7.81 MB) |
 | Size | 38,576 rows x 24 columns (one row per loan) |
 | Period | January to December 2021 (all loans issued in 2021) |
@@ -240,13 +240,11 @@ bank-loan-analysis-dashboard/
     `-- financial_loan_clean.csv      (cleaned, dashboard source)
 ```
 
-Add the two data files yourself before pushing the repository (they are not included in this download).
 
----
 
 ## Author
 
 **Md Ziaul Haque**  
 Data Analyst | Excel, SQL, Power BI, Tableau, Python  
-GitHub: [Paste your GitHub link here]  
-LinkedIn: [Paste your LinkedIn link here]
+GitHub: https://github.com/md-ziaul-haque-ds 
+LinkedIn: http://www.linkedin.com/in/mdziaulhaque-datascience
