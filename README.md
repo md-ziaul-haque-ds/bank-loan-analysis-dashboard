@@ -235,7 +235,7 @@ bank-loan-analysis-dashboard/
 |-- docs/
 |   |-- 01_Business_Questions_and_Objectives.docx
 |   `-- 02_Business_Insights_and_Conclusions.docx
-`-- data/
+`-- dataset/
     |-- financial_loan.csv            (raw, from Kaggle)
     `-- financial_loan_clean.csv      (cleaned, dashboard source)
 ```
